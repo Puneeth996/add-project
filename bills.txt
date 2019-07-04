@@ -1,0 +1,6 @@
+rent-320
+groceries-100
+s&d's-200
+metro-50
+phone-50
+total-720
